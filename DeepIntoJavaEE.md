@@ -311,7 +311,7 @@ public class HelloController implements Controller {
 
 ### 2.2.3 SpringMVC执行原理
 
- ![未命名文件(1)](C:\Users\23215\Desktop\DeepIntoJavaEE.assets\未命名文件(1).png)
+ ![未命名文件(1)](DeepIntoJavaEE.assets/未命名文件(1).png)
 
 - Controller将ModelAndView信息传递给HandleAdaptor，HandleAdaptor传递给DispatcherServlet，DispatcherServlet调用视图解析器匹配视图的名称，然后传递给用户。
 
