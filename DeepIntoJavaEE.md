@@ -216,7 +216,7 @@ constructor-arg的属性中name属性对应User.java中的各项参数（本例�
 
 - DispatcherServlet即前端控制器，拦截并处理用户各种使用Servlet的请求。
 
-![mvc context hierarchy](C:\Users\23215\Desktop\DeepIntoJavaEE.assets\mvc-context-hierarchy.png)
+![mvc context hierarchy](DeepIntoJavaEE.assets/mvc-context-hierarchy.png)
 
 ## 2.2 部署不使用注解的SpringMVC工程
 
@@ -307,7 +307,7 @@ public class HelloController implements Controller {
 
 - 部署Tomcat后，启动出现404异常。打开项目结构，为工件添加lib，导入所有jar包依赖。
 
-![image-20221020091217464](C:\Users\23215\Desktop\DeepIntoJavaEE.assets\image-20221020091217464.png)
+![image-20221020091217464](DeepIntoJavaEE.assets/image-20221020091217464.png)
 
 ### 2.2.3 SpringMVC执行原理
 
