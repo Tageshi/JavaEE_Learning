@@ -216,7 +216,7 @@ constructor-arg的属性中name属性对应User.java中的各项参数（本例�
 
 - DispatcherServlet即前端控制器，拦截并处理用户各种使用Servlet的请求。
 
-![mvc context hierarchy](\DeepIntoJavaEE.assets\mvc-context-hierarchy.png)
+![mvc context hierarchy](C:\Users\23215\Desktop\DeepIntoJavaEE.assets\mvc-context-hierarchy.png)
 
 ## 2.2 部署不使用注解的SpringMVC工程
 
